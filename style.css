@@ -1,0 +1,49 @@
+/* 7 */
+.latest {
+    color: darkmagenta;
+}
+.old{
+    color: tomato;
+}
+
+/* 8 styliser div*/
+div {
+    border: solid 3px lightgray;
+    text-align: center;
+    background-color: rosybrown;
+    margin: 10px;
+}
+
+/* 9 */
+.headline {
+    background-color: orange;
+    padding: 10px;
+}
+.main-story {
+    border: solid 3px darkgreen;
+    padding: 20px;
+    background-color: white;
+}
+
+/* 10 */
+.quarter {
+    width: 20%;
+    background-color: moccasin;
+}
+.news {
+    width: 300px;
+    background-color: violet;
+}
+
+/* 11 */
+.off {
+    width: 300px;
+    height: 50px;
+    background-color: coral;
+    border: none;
+}
+button {
+    width: 50%;
+    height: 50px;
+    border: none;
+}
